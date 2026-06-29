@@ -1,10 +1,10 @@
 {
-    "version": "b0.0.1",
+    "version": "b0.0.2",
     "update_time": "",
-    "download_name": "GalGame_Launcher-b0.0.1-win_x64.zip",
+    "download_name": "GalGame_Launcher-b0.0.2-win_x64.zip",
     "run_name": "Launcher.exe",
     "sha256": "",
-    "url": "https://github.com/AKchang134/SelfApplications/releases/download/b0.0.1/GalGame_Launcher-b0.0.1-win_x64.zip",
+    "url": "https://github.com/AKchang134/SelfApplications/releases/download/b0.0.2/GalGame_Launcher-b0.0.2-win_x64.zip",
     "extra_actions": [
         {
             "status": 30006,
